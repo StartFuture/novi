@@ -1,0 +1,6 @@
+[submodule "novi-backend"]
+	path = novi-backend
+	url = https://github.com/StartFuture/novi-backend
+[submodule "novi-frontend"]
+	path = novi-frontend
+	url = https://github.com/StartFuture/novi-frontend
